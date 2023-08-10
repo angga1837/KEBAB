@@ -1,0 +1,19 @@
+body{
+    background-image: url(http://wallpapercave.com/wp/wp1827199.jpg);
+    background-size:cover;
+    text-align: center;
+    
+}
+
+H1{
+    color: rgb(235, 218, 218);
+    text-align: center;
+}
+
+p{
+    color: rgb(229, 232, 225);
+    text-align: center;
+}
+table{
+    color: aliceblue;
+}
